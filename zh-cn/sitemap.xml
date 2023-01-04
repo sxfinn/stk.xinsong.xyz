@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/zh-cn/</loc>
+    <loc>https://stk.xinsong.xyz/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://stk.xinsong.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/"
+                href="https://stk.xinsong.xyz/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://stk.xinsong.xyz/zh-cn/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/categories/</loc>
+    <loc>https://stk.xinsong.xyz/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://stk.xinsong.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/categories/"
+                href="https://stk.xinsong.xyz/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://stk.xinsong.xyz/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/page/</loc>
+    <loc>https://stk.xinsong.xyz/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/page/"
+                href="https://stk.xinsong.xyz/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/page/"
+                href="https://stk.xinsong.xyz/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/tags/</loc>
+    <loc>https://stk.xinsong.xyz/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://stk.xinsong.xyz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://example.com/ar/tags/"
+                href="https://stk.xinsong.xyz/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://stk.xinsong.xyz/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://stk.xinsong.xyz/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://stk.xinsong.xyz/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://stk.xinsong.xyz/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>
